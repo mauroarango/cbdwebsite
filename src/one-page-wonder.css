@@ -5,10 +5,10 @@
  */
 
 body {
-    padding-top: 54px;
+    padding-top: 14px;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 900px) {
     body {
         padding-top: 56px;
     }
@@ -25,7 +25,7 @@ header.masthead {
 header.masthead > .overlay {
     padding: 5rem 0;
     text-align: center;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.8);
 }
 
 @media (min-width: 992px) {
