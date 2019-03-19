@@ -4,13 +4,11 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
  */
 
-body {
-    padding-top: 14px;
-}
+
 
 @media (min-width: 900px) {
     body {
-        padding-top: 56px;
+       padding: 0%;
     }
 }
 
